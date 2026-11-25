@@ -10,6 +10,8 @@
   <a href="https://lootrecycle.viruslox.it/"><img src="https://img.shields.io/badge/STORE-LootRecycle-a448c7?style=for-the-badge&labelColor=1f0a27" alt="LootRecycle"></a>
   <a href="https://discord.com/invite/keA8ZWtgnz"><img src="https://img.shields.io/badge/DISCORD-Community-a448c7?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f0a27" alt="Discord"></a>
   <a href="https://www.twitch.tv/viruslox"><img src="https://img.shields.io/badge/TWITCH-viruslox-a448c7?style=for-the-badge&logo=twitch&logoColor=white&labelColor=1f0a27" alt="Twitch"></a>
+  <a href="https://www.youtube.com/@viruslox"><img src="https://img.shields.io/badge/YOUTUBE-@viruslox-a448c7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1f0a27" alt="YouTube"></a>
+  <a href="https://x.com/viruslox"><img src="https://img.shields.io/badge/X-@viruslox-a448c7?style=for-the-badge&logo=x&logoColor=white&labelColor=1f0a27" alt="X"></a>
 </div>
 
 ---
